@@ -2,8 +2,8 @@
 title: "欢迎来到我的个人主页！ | Welcome to My Personal Homepage!"
 ---
 
-# 你好，我是 [你的名字] 👋  
-# Hello, I'm [Your Name] 👋
+# 你好，我是 陈世杰 👋  
+# Hello, I'm Shijie Chen 👋
 
 我是一名大学生，正在学习如何使用 GitHub 来提升我的项目开发能力。  
 I am a college student, learning how to use GitHub to improve my project development skills.
@@ -22,8 +22,8 @@ I am a college student, learning how to use GitHub to improve my project develop
   **Frameworks**: React, Flask
 
 ## 联系我 | Contact Me
-- 📧 邮箱: [你的邮箱] | Email: [Your Email]
-- 🌐 个人网站: [你的网站链接] | Website: [Your Website Link]
+- 📧 邮箱: ChenShiJieAE86@163.com | Email: ChenShiJieAE86@163.com
+- 🌐 个人网站: dilevo1.github.io | Website: dilevo1.github.io
 - 💼 LinkedIn: [你的 LinkedIn 链接] | LinkedIn: [Your LinkedIn Link]
 
 ---
